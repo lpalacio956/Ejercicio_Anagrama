@@ -66,9 +66,9 @@ Si no coinciden → No son anagramas.
 
 ---
 
-## 🚀 Cómo Ejecutar el Proyecto
+<img width="688" height="1260" alt="image" src="https://github.com/user-attachments/assets/52bef9fd-97e2-4aff-9916-f89cc7b01b42" />
+<img width="656" height="1276" alt="image" src="https://github.com/user-attachments/assets/b3e0d2e4-6b5b-438e-b09e-2b1462f2dce8" />
+<img width="651" height="1310" alt="image" src="https://github.com/user-attachments/assets/1ee731e6-ffa6-4ade-9c42-c6c17eb56b28" />
 
-1. Clonar el repositorio:
 
-```bash
-git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+
